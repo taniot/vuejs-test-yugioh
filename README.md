@@ -1,6 +1,6 @@
-# Vue Template
+# Vue Test Yu-Gi-Oh
 
-Template di partenza per progetti Vue con option API
+Recap State Management, Props, Emit con API di Yu-Gi-Oh
 
 Per installare il progetto
 - npm install
